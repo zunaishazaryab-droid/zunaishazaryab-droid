@@ -1,4 +1,12 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&size=22&width=435&lines=Hi+there!+I'm+Zunaisha+Zaryab;Python+Developer;Game+Development+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&size=22&width=435&lines=Hi+there!+I'm+Zunaisha+Zaryab;Python+Developer;Game+Development+Enthusiast;Backend+Developer" alt="Typing SVG" />
+  </h1>
+</div>
+
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding Girl"/>
+</div>
 
 I'm a passionate **Python Developer** with advanced skills in game development and backend technologies. Having completed my **Intermediate** education, I've had the privilege of building engaging games and applications. My journey includes:
 
@@ -87,27 +95,34 @@ class AboutMe:
 
 ## 📊 My GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zunaishazaryab-droid&show_icons=true&locale=en&layout=compact" alt="zunaishazaryab-droid" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaishazaryab-droid&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&locale=en" alt="zunaishazaryab-droid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&" alt="zunaishazaryab-droid" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=radical" alt="zunaishazaryab-droid" />
+</div>
 
 ## Pinned
 
-<a href="https://github.com/zunaishazaryab-droid/snake-game-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=snake-game-python" />
-</a>
-<a href="https://github.com/zunaishazaryab-droid/mail-merge-project-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=mail-merge-project-python" />
-</a>
+<div align="center">
+  <a href="https://github.com/zunaishazaryab-droid/snake-game-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=snake-game-python&theme=radical" />
+  </a>
+  <a href="https://github.com/zunaishazaryab-droid/mail-merge-project-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=mail-merge-project-python&theme=radical" />
+  </a>
+</div>
 
-<a href="https://github.com/zunaishazaryab-droid/rain-alert-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=rain-alert-python" />
-</a>
-<a href="https://github.com/zunaishazaryab-droid/zunaishazaryab-droid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=zunaishazaryab-droid" />
-</a>
+<div align="center">
+  <a href="https://github.com/zunaishazaryab-droid/rain-alert-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=rain-alert-python&theme=radical" />
+  </a>
+  <a href="https://github.com/zunaishazaryab-droid/zunaishazaryab-droid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=zunaishazaryab-droid&theme=radical" />
+  </a>
+</div>
 
 ---
 
