@@ -1,12 +1,8 @@
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&size=22&width=435&lines=Hi+there!+I'm+Zunaisha+Zaryab;Python+Developer;Game+Development+Enthusiast;Backend+Developer" alt="Typing SVG" />
-  </h1>
-</div>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&size=22&width=435&lines=Hi+there!+I'm+Zunaisha+Zaryab;Python+Developer;Game+Development+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
 
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding Girl"/>
-</div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 I'm a passionate **Python Developer** with advanced skills in game development and backend technologies. Having completed my **Intermediate** education, I've had the privilege of building engaging games and applications. My journey includes:
 
@@ -18,6 +14,15 @@ I'm a passionate **Python Developer** with advanced skills in game development a
 💡 Strong background in both game development and backend solutions  
 📱 Passionate about creating seamless user experiences  
 🧬 Currently learning Django and Database Optimization  
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Girl"/>
+
+</td>
+</tr>
+</table>  
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
