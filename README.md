@@ -3,6 +3,7 @@
 <table>
 <tr>
 <td width="60%" valign="top">
+<img align="right" height="350" src="https://github.com/zunaishazaryab-droid/zunaishazaryab-droid/blob/main/WhatsApp%20Image%202025-09-19%20at%2022.25.45_169384f5.jpg?raw=true"/>
 
 I'm a passionate **Python Developer** with advanced skills in game development and backend technologies. Having completed my **Intermediate** education, I've had the privilege of building engaging games and applications. My journey includes:
 
@@ -15,16 +16,8 @@ I'm a passionate **Python Developer** with advanced skills in game development a
 📱 Passionate about creating seamless user experiences  
 🧬 Currently learning Django and Database Optimization  
 
-</td>
-<td width="40%" valign="top">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Girl"/>
 
-</td>
-</tr>
-</table>  
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ## Here's a bit about me in code:
 
