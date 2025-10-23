@@ -63,7 +63,7 @@ class AboutMe:
 </a> 
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 </a> 
@@ -80,7 +80,7 @@ class AboutMe:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+
 </a> 
 </p>
 
