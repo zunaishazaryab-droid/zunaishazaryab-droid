@@ -54,7 +54,7 @@ class AboutMe:
 <h2 align="center">Total Contribution Graph in All Repos 📉</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&font_color=75beff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&bg_color=0b0e14&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&font_color=00d4ff" width="100%" />
 </p>
 
 <h2 align="center">📌 Pinned Projects</h2>
