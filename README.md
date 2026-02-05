@@ -51,10 +51,10 @@ class AboutMe:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight&hide_border=false" />
 </p>
 
-## 📉 Total Contribution Graph
+<h2 align="center">📈 Total Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&theme=tokyonight&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&theme=tokyonight&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" width="100%" />
 </p>
 
 <h2 align="center">📌 Pinned Projects</h2>
