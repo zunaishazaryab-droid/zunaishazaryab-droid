@@ -40,37 +40,30 @@ class AboutMe:
         return "I turn coffee into code and ideas into reality! ☕🚀"
 ```
 
+
 <h2 align="center">Languages-Frameworks-Tools 🛠️</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,py,mongodb,supabase,css,html,cpp&perline=7" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,py,mongodb,supabase&perline=4" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=css,html,cpp" />
-</div>
-
-<br/>
+---
 
 <h2 align="center">Github Stats and Streaks 📊 🔥</h2>
-
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=tokyonight&hide_border=false" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaishazaryab-droid&layout=compact&theme=tokyonight" />
-</p>
+---
 
-<h2 align="center">Total Contribution Graph in All Repos 📉</h2>
-
+<h2 align="center">Total Contribution Graph 📈</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
-<br/>
+---
 
 <h2 align="center">📌 Pinned Projects</h2>
-
 <p align="center">
   <a href="https://github.com/zunaishazaryab-droid/snake-game-python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=snake-game-python&theme=tokyonight" />
