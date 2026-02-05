@@ -40,72 +40,66 @@ class AboutMe:
         return "I turn coffee into code and ideas into reality! ☕🚀"
 ```
 
-## 🛠️ Languages and Tools:
+<h2 align="center">🛠️ Languages-Frameworks-Tools</h2>
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="45" height="45"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/><br>Git</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/><br>Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>MongoDB</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="45" height="45"/><br>Supabase</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/><br>CSS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/><br>HTML</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br>C++</td>
+  </tr>
+</table>
+</div>
 
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="45" height="45"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-</p>
+---
 
-## 🎮 Featured Games:
-
-| 🐍 **Snake Game** | 🏔️ **Hill Climb Racing** | 💎 **Treasure Hunt** |
-| :--- | :--- | :--- |
-| Classic snake with modern UI | Physics-based racing game | Adventure puzzle game |
-| **Python** • **Pygame** | **Python** • **Pygame** | **Python** • **Pygame** |
-
-## 📊 My GitHub Stats:
+<h2 align="center">📊 Github Stats and Streaks 📈🔥</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaishazaryab-droid&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=radical" alt="zunaishazaryab-droid" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-## 📈 Total Contribution Graph:
 
+---
+
+<h2 align="center">📉 Total Contribution Graph (Blue Theme)</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&theme=radical&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
-## 📌 Pinned Projects
+---
+
+<h2 align="center">📌 Pinned Projects</h2>
 
 <p align="center">
   <a href="https://github.com/zunaishazaryab-droid/snake-game-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=snake-game-python&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=snake-game-python&theme=tokyonight" />
   </a>
   <a href="https://github.com/zunaishazaryab-droid/mail-merge-project-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=mail-merge-project-python&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=mail-merge-project-python&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zunaishazaryab-droid/rain-alert-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=rain-alert-python&theme=radical" />
-  </a>
-  <a href="https://github.com/zunaishazaryab-droid/zunaishazaryab-droid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=zunaishazaryab-droid&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=rain-alert-python&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=zunaishazaryab-droid&label=Profile%20views&color=0e75b6&style=flat" alt="zunaishazaryab-droid" /> 
+  <img src="https://komarev.com/ghpvc/?username=zunaishazaryab-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> 
 </p>
 
 <div align="center">
