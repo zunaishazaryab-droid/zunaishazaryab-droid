@@ -40,44 +40,34 @@ class AboutMe:
         return "I turn coffee into code and ideas into reality! ☕🚀"
 ```
 
-<h2 align="center">🛠️ Languages-Frameworks-Tools</h2>
+<h2 align="center">Languages-Frameworks-Tools 🛠️</h2>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/><br>Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/><br>Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>MongoDB</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="45" height="45"/><br>Supabase</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/><br>CSS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/><br>HTML</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br>C++</td>
-  </tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=git,py,mongodb,supabase&perline=4" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=css,html,cpp" />
 </div>
 
----
+<br/>
 
-<h2 align="center">📊 Github Stats and Streaks 📈🔥</h2>
+<h2 align="center">Github Stats and Streaks 📊 🔥</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=tokyonight" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=tokyonight&hide_border=false" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaishazaryab-droid&layout=compact&theme=tokyonight" />
 </p>
 
----
+<h2 align="center">Total Contribution Graph in All Repos 📉</h2>
 
-<h2 align="center">📉 Total Contribution Graph (Blue Theme)</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
----
+<br/>
 
 <h2 align="center">📌 Pinned Projects</h2>
 
@@ -94,15 +84,13 @@ class AboutMe:
   <a href="https://github.com/zunaishazaryab-droid/rain-alert-python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=rain-alert-python&theme=tokyonight" />
   </a>
+  <a href="https://github.com/zunaishazaryab-droid/zunaishazaryab-droid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=zunaishazaryab-droid&theme=tokyonight" />
+  </a>
 </p>
 
----
-
-<p align="left"> 
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=zunaishazaryab-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> 
 </p>
 
-<div align="center">
-  <br>
-  <i>"I turn coffee into code and ideas into reality!"</i> ☕🚀
-</div>
+<p align="center"><i>"I turn coffee into code and ideas into reality!"</i> ☕🚀</p>
