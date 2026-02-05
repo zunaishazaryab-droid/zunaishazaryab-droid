@@ -40,13 +40,10 @@ class AboutMe:
         return "I turn coffee into code and ideas into reality! ☕🚀"
 ```
 
-
 <h2 align="center">Languages-Frameworks-Tools 🛠️</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,py,mongodb,supabase,css,html,cpp&perline=7" />
 </p>
-
----
 
 <h2 align="center">Github Stats and Streaks 📊 🔥</h2>
 <p align="center">
@@ -54,14 +51,10 @@ class AboutMe:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight&hide_border=false" />
 </p>
 
----
-
 <h2 align="center">Total Contribution Graph 📈</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunaishazaryab-droid&theme=dracula&area=true&hide_border=true&point=purple&line=purple" width="100%" />
 </p>
-
----
 
 <h2 align="center">📌 Pinned Projects</h2>
 <p align="center">
@@ -72,18 +65,3 @@ class AboutMe:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=mail-merge-project-python&theme=tokyonight" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/zunaishazaryab-droid/rain-alert-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=rain-alert-python&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/zunaishazaryab-droid/zunaishazaryab-droid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zunaishazaryab-droid&repo=zunaishazaryab-droid&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=zunaishazaryab-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> 
-</p>
-
-<p align="center"><i>"I turn coffee into code and ideas into reality!"</i> ☕🚀</p>
