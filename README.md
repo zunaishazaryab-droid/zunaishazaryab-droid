@@ -45,14 +45,13 @@ class AboutMe:
   <img src="https://skillicons.dev/icons?i=git,py,mongodb,supabase,css,html,cpp&perline=7" />
 </p>
 <h2 align="center">Github Stats and Streaks 📊 🔥</h2>
-
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=tokyonight&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideLabels=00d4ff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=0d1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=tokyonight&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideLabels=00d4ff" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaishazaryab-droid&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=10" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaishazaryab-droid&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=10" alt="Top Languages" />
 </p>
 <h2 align="center">Total Contribution Graph in All Repos 📉</h2>
 
