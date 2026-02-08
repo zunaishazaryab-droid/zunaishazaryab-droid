@@ -47,8 +47,8 @@ class AboutMe:
 
 <h2 align="center">Github Stats and Streaks 📊 🔥</h2>
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=tokyonight&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideLabels=00d4ff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=0d1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaishazaryab-droid&theme=tokyonight&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideLabels=00d4ff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zunaishazaryab-droid&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=0d1117" />
 </p>
 
 <p align="center">
