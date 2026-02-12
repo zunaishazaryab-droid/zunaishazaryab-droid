@@ -1,7 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&size=22&width=435&lines=Hi+there!+I'm+Zunaisha+Zaryab;Python+Developer;Game+Development+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
 
 <div align="center">
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello World! I'm Zunaisha Zaryab
+
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> **Hello World! I'm Zunaisha Zaryab**
 
 </div>
 
