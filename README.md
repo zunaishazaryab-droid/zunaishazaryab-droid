@@ -8,7 +8,7 @@
 
  <p align="center">
   <img src="https://img.shields.io/github/followers/zunaishazaryab-droid?style=social" alt="Followers" />
-  <img src="https://img.shields.io/badge/Profile%20views-301-brightgreen?style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zunaishazaryab-droid&label=Profile%20views&color=brightgreen&style=flat-square" alt="Zunaisha's Profile Views" />
 </p>
 <table>
 <tr>
