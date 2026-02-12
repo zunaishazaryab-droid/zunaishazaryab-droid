@@ -1,10 +1,8 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&size=22&width=435&lines=Hi+there!+I'm+Zunaisha+Zaryab;Python+Developer;Game+Development+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello World! I'm Zunaisha Zaryab
 
-<div align="center">
+font=Fira+Code&pause=1000&color=F75C7E&size=22&width=435&lines=Hi+there!+I'm+Zunaisha+Zaryab;Python+Developer;Game+Development+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
 
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> **Hello World! I'm Zunaisha Zaryab**
-
-</div>
 
   <img src="https://img.shields.io/github/followers/zunaishazaryab-droid?label=Followers&style=flat&color=white&logo=github" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=zunaishazaryab-droid&label=Profile%20views&color=6e5494&style=flat" alt="Profile Views" />
