@@ -2,7 +2,9 @@
 
 <div align="center">
 
-# 👋 Hello World! I'm Zunaisha Zaryab
+# Hello World! I'm Zunaisha Zaryab <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+
+</div>
 
   <img src="https://img.shields.io/github/followers/zunaishazaryab-droid?label=Followers&style=flat&color=white&logo=github" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=zunaishazaryab-droid&label=Profile%20views&color=6e5494&style=flat" alt="Profile Views" />
