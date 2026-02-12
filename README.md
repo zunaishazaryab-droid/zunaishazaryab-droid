@@ -3,8 +3,8 @@
 
 
  <p align="center">
-  <img src="https://img.shields.io/github/followers/zunaishazaryab-droid?label=Followers&style=flat&color=white&logo=github&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=zunaishazaryab-droid&label=Profile%20views&color=4c1&style=flat" />
+  <img src="https://img.shields.io/github/followers/zunaishazaryab-droid?style=social" alt="Followers" />
+  <img src="https://img.shields.io/badge/Profile%20views-301-brightgreen?style=flat-square" alt="Profile views" />
 </p>
 <table>
 <tr>
