@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hello World! I'm Zunaisha Zaryab <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"># Hello World! I'm Zunaisha Zaryab
 
 </div>
 
